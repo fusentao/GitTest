@@ -19,6 +19,7 @@ namespace testFrom
         private void Form1_Load(object sender, EventArgs e)
         {
             label1.Text = "Hello World!";
+            label1.Text = "this is test from";
         }
     }
 }
